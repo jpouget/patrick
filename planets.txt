@@ -1,3 +1,5 @@
 Earth
-Mercury
-Pluto
+Mercury #small and speedy
+Venus
+Jupiter #probably too expensive
+Pluto #is this still a planet?
